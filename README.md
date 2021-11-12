@@ -8,7 +8,7 @@
 **1.OBJETIVOS**
 
 ***Objetivo General***
-- Aplicar los conceptos de las leyes Kirchhoff de voltaje y la ley de Kirchhoff de corriente mediante una practica de laboratorio, para medir las unidades como voltaje, intensidad y resistencia en un circuito. 
+- Aplicar los conceptos de las leyes Kirchhoff de voltaje y la ley de Kirchhoff de corriente mediante una practica de laboratorio, para medir las unidades como voltaje, intensidad  en un circuito  luego comparar estos resultadoscon otros  que se obtienen matematicamente.  
 
 ***Objetivo Especificos***
 - Conocer los conceptos de las leyes de las leyes Kirchhoff de voltaje y la ley de Kirchhoff de corriente.
@@ -35,10 +35,29 @@
 
 Se midió cada voltaje que esta presente en el cicuito haciendo diferentes conecciones en paralelo con respecto a las resistecias 
 
-![image](https://user-images.githubusercontent.com/94098157/141416802-704b0f37-9702-4b95-937a-dbbac255eab8.png)
+![image](https://user-images.githubusercontent.com/94098157/141493017-eb6204f6-76b6-4c82-8bdb-3114247ec4ab.png)
 
-Se midió la corriente que esta presente en el cicuito haciendo coneccioes en serie en diferentes puntos del circuito 
+Se midió la corriente que esta presente en el cicuito haciendo coneccioes en serie en diferentes puntos del circuito
 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![image](https://user-images.githubusercontent.com/94098157/141494408-9d263c62-d8c9-4d64-96ec-8d72f5daeab8.png)
+
+Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en la medición y en sus respectivos calculos  
+
+![image](https://user-images.githubusercontent.com/94098157/141495283-88a4c4ae-e3e8-439e-8b55-7cbf1d1d42be.png)
+
+Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
+![image](https://user-images.githubusercontent.com/94098157/141496560-e9c780f2-87b4-47e2-855f-4eba7b50f6b0.png)
+
+
+**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+**5. VIDEO: **
+https://www.youtube.com/watch?v=wjFvrKyz2m4
+
+**6. CONCLUSIONES**
+**7.BIBLIOGRAFÍA**
 
 
 
