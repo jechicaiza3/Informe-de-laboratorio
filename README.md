@@ -4,6 +4,9 @@
 
 **DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
 
+Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando 
+
+NRC: 10133
 
 **1.OBJETIVOS**
 
