@@ -48,12 +48,11 @@ Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en 
 ![image](https://user-images.githubusercontent.com/94098157/141495283-88a4c4ae-e3e8-439e-8b55-7cbf1d1d42be.png)
 
 Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
-![image](https://user-images.githubusercontent.com/94098157/141496560-e9c780f2-87b4-47e2-855f-4eba7b50f6b0.png)
-
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-**5. VIDEO: **
+**5. VIDEO:**
+
 https://www.youtube.com/watch?v=wjFvrKyz2m4
 
 **6. CONCLUSIONES**
