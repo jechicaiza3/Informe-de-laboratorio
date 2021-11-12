@@ -49,14 +49,42 @@ Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en 
 
 Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
 
+*Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,  considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. *
+
+Tabla 1.2.
+
+![image](https://user-images.githubusercontent.com/94098157/141505169-d2fb16ff-db79-451c-ba9a-cdad30951a4f.png)
+
+*Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salendel nodo. *
+
+Tabla 1.3.
+
+![image](https://user-images.githubusercontent.com/94098157/141505421-93ce4a7e-1964-4c9e-9226-253229c9f38b.png)
+
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+En esta pracica hemos podido comprobar las leyes de kirchhoff tanto de voltaje en forma trayectoria como en una malla para la corriente. 
+
+![image](https://user-images.githubusercontent.com/94098157/141499857-4378f4fd-6542-4909-886d-8be8696c1c53.png)
+
+Aqui se puede ver el margen de error entre lo real y lo teorico en el que es muy bajo 
 
 **5. VIDEO:**
 
 https://www.youtube.com/watch?v=wjFvrKyz2m4
 
 **6. CONCLUSIONES**
+- Tener los conceptos claros en lo que ue se refiere a corriente y voltaje y la forma de medirlos para no obtener valores erroneos.
+- Se pudo observar que las leyes de kirchhoff se cumplen para el circuito presentado. 
+- Los margenes que presentan tanto lo real como lo teorico son bajos indicandonos que el cicuito fue medido correctamente. 
+- Conocer el funcionamiento del voltimetro nos ayudó a poder realizar de manera precisa las medicones del circuito.
+- Saber de como esta estructurado un protoard hace que el hacer un circuito pueda resulta mucho mas facil. 
+
 **7.BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
+
+Khan. (2015).* Khan Academy*. Las Leyes de Kirchhoff. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 
 
