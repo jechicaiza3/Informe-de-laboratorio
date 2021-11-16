@@ -4,6 +4,8 @@
 
 **DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
 
+**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+
 Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando 
 
 NRC: 10133
@@ -45,11 +47,12 @@ Se midió la corriente que esta presente en el cicuito haciendo coneccioes en se
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 ![image](https://user-images.githubusercontent.com/94098157/141494408-9d263c62-d8c9-4d64-96ec-8d72f5daeab8.png)
+Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en la medición y en sus respectivos calculos
 
-Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en la medición y en sus respectivos calculos  
+![image](https://user-images.githubusercontent.com/94098157/142029886-9f312628-1067-4607-ba76-33b68facaf8e.png)
+Se isieron los respectivos calculos para obtener tanto la corriente y volataje mediante leas leyes de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/94098157/141495283-88a4c4ae-e3e8-439e-8b55-7cbf1d1d42be.png)
-
 Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
 
 *Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,  considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. *
@@ -66,11 +69,13 @@ Tabla 1.3.
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-En esta pracica hemos podido comprobar las leyes de kirchhoff tanto de voltaje en forma trayectoria como en una malla para la corriente. 
+En esta pracica hemos podido comprobar las leyes de kirchhoff tanto de voltaje en forma trayectoria como en una malla para la corriente en valores medidos y calculados
+
+![image](https://user-images.githubusercontent.com/94098157/142029306-3ffa9711-0dc9-41e5-b8a2-75bddf56f4bc.png)
 
 ![image](https://user-images.githubusercontent.com/94098157/141499857-4378f4fd-6542-4909-886d-8be8696c1c53.png)
 
-Aqui se puede ver el margen de error entre lo real y lo teorico en el que es muy bajo 
+Aqui se puede ver el margen de error entre lo real y lo teorico en el que es muy bajo significando que las medidads relizadas en el cicuito y los valores calculados son muy semejantes. 
 
 **5. VIDEO:**
 
