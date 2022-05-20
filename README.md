@@ -6,9 +6,9 @@
 
 **FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
 
-Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando 
+Nombres : Maycon Caisaguano, Jefferson Chicaiza, Steven Lopez
 
-NRC: 10133
+NRC: 7309
 
 **1.OBJETIVOS**
 
@@ -29,24 +29,25 @@ NRC: 10133
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 *1. Realice el circuito en base a diagrama propuesto.*
-![image](https://user-images.githubusercontent.com/94098157/141413325-0c761a08-38b3-4737-9db5-c7a323271c06.png)
-![image](https://user-images.githubusercontent.com/94098157/141414167-0a0188c1-02b4-43eb-8866-de5839c448e5.png)
+![image](https://user-images.githubusercontent.com/84757114/169535221-ca910604-af78-4355-8348-31cc0dfffbfe.png)
+
+![image](https://user-images.githubusercontent.com/84757114/169535045-83fd1964-f99b-4f01-af6d-d2bad808f50d.png)
 
  Circuito conectado con el voltaje y resistencias solicitadas
  
 *2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla.*
  
-![image](https://user-images.githubusercontent.com/94098157/141416220-f221cf79-eb16-44cb-8433-e2ca1a63dc86.png)
+![image](https://user-images.githubusercontent.com/84757114/169535468-11cc2200-80a4-4b98-a70b-b1fc6902c9c6.png)
 
 Se midió cada voltaje que esta presente en el cicuito haciendo diferentes conecciones en paralelo con respecto a las resistecias 
 
-![image](https://user-images.githubusercontent.com/94098157/141493017-eb6204f6-76b6-4c82-8bdb-3114247ec4ab.png)
+![image](https://user-images.githubusercontent.com/84757114/169535526-ea2e7287-a185-47e3-91e2-4c095a90c2e6.png)
 
 Se midió la corriente que esta presente en el cicuito haciendo coneccioes en serie en diferentes puntos del circuito
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/94098157/141494408-9d263c62-d8c9-4d64-96ec-8d72f5daeab8.png)
+![image](https://user-images.githubusercontent.com/84757114/169535665-4465369b-4942-4119-8585-3f4f576937b4.png)
 
 Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en la medición y en sus respectivos calculos
 
